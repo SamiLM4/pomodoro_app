@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">pomodoro</string>
     <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="buttonPause">Button</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+    <string name="textViewPause">TextView</string>
 </resources>
